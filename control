@@ -1,0 +1,8 @@
+Package: com.lime.pulse
+Name: Pulse
+Version: 0.1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0)
+Section: Networking
+Author: Lime
+Description: Mail client for iOS 6
